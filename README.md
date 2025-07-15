@@ -25,7 +25,7 @@ Experienced in turning data into actionable insights and building impactful mach
 - 🌍 **AI Potential Predictor** — ML model to guide VC investments in emerging AI regions
 
 🛠️ **Tech & Tools**  
-- **Languages**: Python, Java, C, C++  
+- **Languages**: Python
 - **Analytics**: SQL, Power BI, Excel, Tableau  
 - **ML/AI**: Scikit-learn, TensorFlow, Pandas, NumPy  
 - **Tools**: Jupyter, Google Colab, Git, Jira, Confluence
@@ -33,7 +33,6 @@ Experienced in turning data into actionable insights and building impactful mach
 📜 **Certifications**  
 - Cloud Computing – IIT Kharagpur (NPTEL)  
 - Electronic Waste Management – NPTEL  
-- C, C++, Java – NICT Computer Education  
 
 🌐 **Languages**  
 - English: Fluent  
