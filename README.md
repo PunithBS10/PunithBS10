@@ -1,58 +1,57 @@
-<h1 align="center">✨ Hey, I’m Punith Borehalli Somashekaraiah</h1>
-<h3 align="center">Data Whisperer | AI Engineer | Digital Business Explorer</h3>
+<h1 align="center">yo 👋 I'm Punith — building AI so good, it might replace me (jk... kinda)</h1>
+<h3 align="center">Data Science 🚀 | AI Things 🤖 | Digital Biz 💼 (but make it ✨fun✨)</h3>
 
 <p align="center">
-  <a href="https://punithbs10.github.io/punith/" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://punithbs10.github.io/punith/" target="_blank">🔗 Portfolio</a> • 
   <a href="mailto:punithbs10@gmail.com">📧 Email</a> • 
-  <a href="https://www.linkedin.com/in/punithbs" target="_blank">🔗 LinkedIn</a>
+  <a href="https://www.linkedin.com/in/punithbs" target="_blank">💼 LinkedIn</a>
 </p>
 
 ---
 
-🚀 **About Me**  
-I build **intelligent systems** that solve real-world problems. Currently pursuing a Master’s in **Data Science, AI & Digital Business** at **GISMA Business School**, Berlin. With a background in R&D engineering and a passion for machine learning, I turn raw data into smart decisions.
+🎓 **Current Vibe**  
+Studying **Data Science + AI + Digital Biz** @ GISMA Berlin 🇩🇪  
+Basically, I’m training to make machines smarter so humans can chill more.
 
 ---
 
-🧠 **What I’ve Built**  
-- 🧬 **Brain Tumor Classifier** — CNN model trained on MRI scans for early diagnosis support  
-- ⚡ **Quick Commerce Intelligence (BigBasket)** — Revamped pricing & inventory strategy using analytics  
-- 🌍 **AI Potential Predictor** — ML model to identify high-growth AI regions for VCs & startups
+👨‍💻 **Stuff I’ve Built Because Sleep is Overrated:**  
+- 🧠 *Brain Tumor Detector* — CNN meets MRI. Saving lives with pixels.  
+- 🛒 *Quick Commerce Strategy* — Made BigBasket smarter (sorry, not sorry, Amazon).  
+- 🌍 *AI Investment Predictor* — For VCs who want to flex in the future.
 
 ---
 
-💼 **Industry Experience**  
-**R&D Engineer** @ Tejas Networks, India  
-- Designed manufacturing analytics dashboards to drive decisions  
-- Automated quality assurance workflows (↓ manual effort by 30%)  
-- Cross-functional teamwork on **5G network integrations**
+🛠️ **My Arsenal**  
+`Python` | `SQL` | `Power BI` | `TensorFlow` | `Tableau` | `Pandas` | `Git` | `Jupyter` | `Google Colab`  
+Basically: if it involves data, dashboards, or deep learning — I’m in.
 
 ---
 
-🛠️ **Toolbox**  
-- **Languages**: Python  
-- **Analytics**: SQL, Power BI, Tableau, Excel  
-- **ML & AI**: Scikit-learn, TensorFlow, Pandas, NumPy  
-- **Dev Tools**: Git, Jupyter, Google Colab, Jira, Confluence
+📍 **Threw My Brain at This Place Once**  
+**Tejas Networks (India)** – aka the lab where I  
+- Turned spreadsheets into dashboards that people actually used  
+- Automated boring QA tasks (30% faster, zero extra coffee)  
+- Helped with some 5G wizardry 🧙
 
 ---
 
-📜 **Certifications**  
-- ☁️ *Cloud Computing* – NPTEL, IIT Kharagpur  
-- ♻️ *E-Waste Management* – NPTEL
+📜 **Certified Cool (on paper too)**  
+- ☁️ *Cloud Computing* — IIT Kharagpur / NPTEL  
+- ♻️ *E-Waste Management* — Saving the planet, one byte at a time
 
-🌍 **Languages**  
-- English – Fluent  
-- German – Basic
+🌐 **Languages IRL**  
+- English – Fluent AF  
+- German – Ich bin learning 🫠
 
 ---
 
-📫 **Let’s Collaborate**  
+📲 **Slide Into My Inboxes**  
 - 💌 [punithbs10@gmail.com](mailto:punithbs10@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/punithbs)  
-- 🌐 [Portfolio](https://punithbs10.github.io/punith/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/punithbs)  
+- 🌍 [Website](https://punithbs10.github.io/punith/)
 
 ---
 
-> _"I don’t just analyze data—I translate it into impact."_  
-> Let's connect and build something game-changing.  
+> *“Not just crunching numbers — I’m teaching machines how to think.”*  
+> If it’s AI + impact + vibes, I’m game. Let’s build.
