@@ -1,4 +1,4 @@
-<h1 align="center">yo 👋 I'm Punith — building AI so good, it might replace me (jk... kinda)</h1>
+<h1 align="center">👋 I'm Punith — building AI so good, it might replace me (jk... kinda)</h1>
 <h3 align="center">Data Science 🚀 | AI Things 🤖 | Digital Biz 💼 (but make it ✨fun✨)</h3>
 
 <p align="center">
